@@ -7,7 +7,7 @@ import {Container} from "react-bootstrap";
 
 export default function NavBar() {
   return (
-    <Navbar bg="light" expand="lg" className="bg-body-tertiary nav-cont">
+    <Navbar bg="dark" expand="lg" className="bg-body-tertiary nav-cont">
         <Container>
         <Navbar.Brand href="#home">
           <Image src={EXOSUS_LOGO} width="150px;"></Image>

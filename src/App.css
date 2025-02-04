@@ -1,4 +1,4 @@
-#root {
+:root {
   text-align: center;
 }
 
@@ -10,9 +10,12 @@
   font-size: 3.5rem;
 }
 
-.grid-section {
-  padding: 15px;
+.corousel-card {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
+
 
 
 .grid-section .card-group {
@@ -37,6 +40,8 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+.card
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
@@ -51,6 +56,14 @@
     animation: logo-spin infinite 20s linear;
   }
 }
-.read-the-docs {
-  color: #888;
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #121212;
+    --text-color: #ffffff;
+    --navbar-bg: #333333;
+    --card-bg: #1e1e1e;
+    --button-bg: #1a73e8;
+    --button-text: #ffffff;
+  }
 }

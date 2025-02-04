@@ -22,7 +22,7 @@ function GridCarousel() {
                 <img
                     className="d-block w-100"
                     src={Group2}
-                    alt="Gorup Picture"
+                    alt="Group Picture"
                 />
                 <Carousel.Caption>
                     <h3>Second slide label</h3>
@@ -33,7 +33,7 @@ function GridCarousel() {
                 <img
                     className="d-block w-100"
                     src={Group3}
-                    alt="Gorup Picture"
+                    alt="Group Picture"
                 />
                 <Carousel.Caption>
                     <h3>Third slide label</h3>

@@ -11,7 +11,7 @@ export default function Gridsection() {
         <div className="grid-section">
             <Container fluid="sm" className="parent-grid">
                 <Row>
-                    <Col lg={5} className="mt-5">
+                    <Col lg={4} className="mt-5">
                         <Card className="shadow-lg">
                             <Card.Img variant="top" src={Victor_Uncle1}/>
                             <Card.Body>
@@ -25,7 +25,7 @@ export default function Gridsection() {
                             </Card.Body>
                         </Card>
                     </Col>
-                    <Col lg={7} className="mt-5">
+                    <Col lg={8} className="mt-5">
                         <GridCarousel></GridCarousel>
                     </Col>
                 </Row>
