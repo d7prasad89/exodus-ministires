@@ -26,7 +26,19 @@ export default function Gridsection() {
                         </Card>
                     </Col>
                     <Col lg={8} className="mt-5">
-                        <GridCarousel></GridCarousel>
+                        <Card className="shadow-lg">
+                            <GridCarousel></GridCarousel>
+                            <Card.Body>
+                                <Card.Title>Evg. Dr.Victor</Card.Title>
+                                <Card.Text>
+                                    Founder & Director of Exodus Music Ministries
+                                    <br></br>
+                                </Card.Text>
+                                <Button variant="primary">
+                                    Learn More
+                                </Button>
+                            </Card.Body>
+                        </Card>
                     </Col>
                 </Row>
             </Container>

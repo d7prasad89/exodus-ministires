@@ -40,7 +40,9 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
-.card
+.card {
+  min-height: 20em !important;
+}
 
 @keyframes logo-spin {
   from {
