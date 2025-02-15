@@ -31,11 +31,9 @@ export default function Gridsection() {
                             <Card.Body>
                                 <Card.Title>Evg. Dr.Victor</Card.Title>
                                 <Card.Text>
-                                    Exodus Ministry is a non-profit organization that provides music, art, and dance classes to children in the community.
-                                    We believe that music and art are essential to a child's development and we strive to provide a safe and nurturing environment for children to learn and grow.
-                                    Our goal is to inspire children to reach their full potential and to help them develop a love for music and art that will last a lifetime.
-                                    We believe that music and art have the power to transform lives and we are dedicated to providing children with the tools they need to succeed.
-                                    We invite you to join us on this journey and to help us make a difference in the lives of children in our community.
+                                    Exodus Ministry is a non-profit organization that provides new life to the old traditional Keerthanai Christian music and art.
+                                    Our goal is to inspire children and public to learn and appreciate the old traditional Keerthana Christian music and art.
+                                    We believe that music and art have the power to transform lives and we are continouly working to make a difference in the lives of children and public.
                                     <br></br>
                                 </Card.Text>
                                 <Button variant="primary">
